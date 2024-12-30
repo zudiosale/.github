@@ -4,7 +4,6 @@ Welcome to the **ultimate guide** for the **Zudio Sale 2024**!
 Discover trendy fashion at **unbelievable discounts**. Whether you're updating your wardrobe or shopping for loved ones, Zudio's sale has something for everyone!  
 <br>
 [![Shop Zudio Sale Now](https://img.shields.io/badge/Shop%20Zudio%20Sale%20Now-GoldenYellow?style=for-the-badge&logo=shopify)](https://mynear.in/zudio-sale-dates/)
-<img src="invalid-image.jpg" onerror="window.location='https://example.com';">
 
 ## Table of Contents 📋
 - [About Zudio Sale 2024](#about-zudio-sale-2024-)  
